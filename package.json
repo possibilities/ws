@@ -21,7 +21,6 @@
     "native" : false
   },
   "dependencies": {
-    "commander": "0.5.x",
     "options": "latest"
   },
   "devDependencies": {
